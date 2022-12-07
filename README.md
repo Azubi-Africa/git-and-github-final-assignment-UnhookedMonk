@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Tip Calculator|  Program to calculate tip due a waiter | https://github.com/UnhookedMonk/Tip-Calculator.git       |
+| 2 |  MessageCipher |  Program to encrypt or decrypt a message | https://github.com/UnhookedMonk/MessageCipher.git      |
+| 3 |  I For Lef Ghana |  Project to sample twitter ecosystem on desire to leave the country | https://github.com/UnhookedMonk/I-for-Lef-Ghana.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
